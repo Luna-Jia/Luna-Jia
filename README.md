@@ -1,6 +1,7 @@
 # Luna Meng Jia
 
-Hi there! 👋 I'm Luna, a Computer Science student from Eastern Michigan University with a strong passion for coding, problem-solving, and technology innovation.
+Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michigan University](https://www.emich.edu/).
+- 📫 How to reach me: 📧 [luna.jia6@gmail.com](mailto:luna.jia6@gmail.com) or [LinkedIn](www.linkedin.com/in/luna-jia).
 
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science**
@@ -10,24 +11,10 @@ Hi there! 👋 I'm Luna, a Computer Science student from Eastern Michigan Univer
   - Washtenaw Community College, Ann Arbor, MI
   - Sep 2020 - April 2023
 
-### Key Coursework
-- Advanced Java Concepts
-- Computer Organization
-- Algorithms & Data Structures
-- Computational Discrete
-- Fundamental Linux/Unix
-- Database Principles and Application
-- Java Spring Framework
-- Professional Team Programming
-- Statistical Methods
-- Computer Operating Systems
-- Software Engineering Solutions
-- Web Programming
-
 ### Programming Languages
 - Java, Python, HTML, JavaScript, PHP, Swift, C, C++, C#
 
-## 💻 Projects
+## 💻 Some of my projects
 
 ### YouTube Review and Description Fetcher
 - **Technologies:** Python, FastAPI, Google Cloud Translate API, GitHub Actions, pytest
@@ -48,17 +35,7 @@ Hi there! 👋 I'm Luna, a Computer Science student from Eastern Michigan Univer
 - Implemented secure session management and a user-friendly interface.
 - Utilized MySQL for database management and incorporated security measures.
 
-## 📚 Work Experience
 
-### Teaching Assistant - Eastern Michigan University
-- **Period:** Sep 2018 - Apr 2019
-- Responsibilities:
-  - Coordinated conferences and presentations for International Student Resource Center. 
-  - Provided English language tutoring to international students.
-  - Designed and taught the "Beginning English Speaking & Listening" course.
-  - Focused on cross-cultural communication and inclusive content delivery.
 
----
 
-Feel free to reach out to me at 📧 [luna.jia6@gmail.com](mailto:luna.jia6@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/luna-jia).
 
