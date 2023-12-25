@@ -3,6 +3,9 @@
 Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michigan University](https://www.emich.edu/).
 - 📫 How to reach me: 📧 [luna.jia6@gmail.com](mailto:luna.jia6@gmail.com) or [LinkedIn](www.linkedin.com/in/luna-jia).
 
+![Luna's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Jia&layout=compact)
+
+
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science**
   - Eastern Michigan University, Ypsilanti, MI
@@ -10,9 +13,6 @@ Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michiga
 - **Associate Degree in Computer Science**
   - Washtenaw Community College, Ann Arbor, MI
   - Sep 2020 - April 2023
-
-### Programming Languages
-- Java, Python, HTML, JavaScript, PHP, Swift, C, C++, C#
 
 ## 💻 Some of my projects
 
