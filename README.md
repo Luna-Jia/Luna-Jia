@@ -4,6 +4,7 @@ Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michiga
 - 📫 How to reach me: 📧 [luna.jia6@gmail.com](mailto:luna.jia6@gmail.com) or [LinkedIn](www.linkedin.com/in/luna-jia).
 
 ![Luna's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Jia&layout=compact)
+📝 [Resume](https://drive.google.com/file/d/1r3FJ6kBH07dLwRYyq-6mD9WQNZxVDfUW/view?usp=sharing)
 
 
 ## 🎓 Education
