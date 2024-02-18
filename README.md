@@ -39,6 +39,10 @@ Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michiga
 - Implemented secure session management and a user-friendly interface.
 - Utilized MySQL for database management and incorporated security measures.
 
+## 📝 My Coding Notes
+- [Remove these files from your github branches for your flutter/firebase app](https://www.notion.so/Remove-these-files-from-your-github-branches-for-your-flutter-firebase-app-b0bedb2b879a4e429c80e95ce2591d29)
+
+- [Git Command Cheat Sheet](https://gainful-era-815.notion.site/Git-Command-Cheat-Sheet-efe804190925456c9b2066f7b66bd1b6)
 
 
 
