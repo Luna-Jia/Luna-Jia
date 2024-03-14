@@ -20,6 +20,15 @@ Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michiga
 
 ## 💻 Some of my projects
 
+### [JARVIS Email Assistant App (Group Project)](https://github.com/COSC481W-2024Winter/JARVIS)
+- **Technologies:** Dart, Flutter, Firebase, Google OAuth, Gmail API
+- Participated in the design and implementation of a smart email assistant app to help users manage a high volume of emails efficiently.
+- **Contributions:**
+  - **Authentication:** Implemented secure OAuth2.0 authentication for users to connect their Google email account.
+  - **Email Fetch and Sort:** Developed the ETL (Extract, Transform, Load) process to retrieve emails, format them for processing, and feed into the sorting system using Gmail API and a proprietary sorter algorithm.
+  - **Testing:** Created comprehensive mock and integration tests for authentication, email retrieval, formatting, and sorting functionalities ensuring high-quality code.
+
+
 ### YouTube Review and Description Fetcher
 - **Technologies:** Python, FastAPI, Google Cloud Translate API, GitHub Actions, pytest
 - Developed a Python-based application for fetching YouTube video reviews and descriptions.
