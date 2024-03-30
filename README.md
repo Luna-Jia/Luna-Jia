@@ -26,6 +26,7 @@ Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michiga
 - **Contributions:**
   - **Authentication:** Implemented secure OAuth2.0 authentication for users to connect their Google email account.
   - **Email Fetch and Sort:** Developed the ETL (Extract, Transform, Load) process to retrieve emails, format them for processing, and feed into the sorting system using Gmail API and a proprietary sorter algorithm.
+  - **Weather Summary:** Integrated real-time weather updates using OpenWeather API, enabling the app to provide users with current weather conditions.
   - **Testing:** Created comprehensive mock and integration tests for authentication, email retrieval, formatting, and sorting functionalities ensuring high-quality code.
 
 
