@@ -2,7 +2,7 @@
 
 # Luna Meng Jia
 
-Hi there! 👋 I'm Luna, a senior Computer Science student from [Eastern Michigan University](https://www.emich.edu/).
+Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan University](https://www.emich.edu/).
 - 📫 How to reach me: 📧 [luna.jia6@gmail.com](mailto:luna.jia6@gmail.com) or [LinkedIn](www.linkedin.com/in/luna-jia).
 - 📝 [Resume](https://drive.google.com/file/d/1r3FJ6kBH07dLwRYyq-6mD9WQNZxVDfUW/view?usp=sharing)
 
