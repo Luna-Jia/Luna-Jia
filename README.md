@@ -17,6 +17,16 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 - **Associate Degree in Computer Science**
   - Washtenaw Community College, Ann Arbor, MI
   - Sep 2020 - April 2023
+- **Master's Degree in Teachers of English to Speakers of Other Languages (TESOL)**
+  - Eastern Michigan University, Ypsilanti, MI
+  - Jan 2018 - Dec 2019
+- **Bachelor's Degree in Teachers of English to Speakers of Other Languages (TESOL)**
+  - Henan University, Kaifeng, China
+  - Sep 2013 - June 2017
+
+
+
+    
 
 ## 💻 Some of my projects
 
