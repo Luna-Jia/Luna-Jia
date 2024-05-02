@@ -24,11 +24,9 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
   - Henan University, Kaifeng, China
   - Sep 2013 - June 2017
 
+  
 
-
-    
-
-## 💻 Some of my projects
+## 💻 Projects
 
 ### [JARVIS Email Assistant App (Group Project)](https://github.com/COSC481W-2024Winter/JARVIS)
 - **Technologies:** Dart, Flutter, Firebase, Google OAuth, Gmail API
@@ -40,7 +38,7 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
   - **Testing:** Created comprehensive mock and integration tests for authentication, email retrieval, formatting, and sorting functionalities ensuring high-quality code.
 
 
-### YouTube Review and Description Fetcher
+### [YouTube Review and Description Fetcher](https://github.com/COSC381-2023Fall/final-project-Luna-Jia)
 - **Technologies:** Python, FastAPI, Google Cloud Translate API, GitHub Actions, pytest
 - Developed a Python-based application for fetching YouTube video reviews and descriptions.
 - Integrated Google Cloud Translate API for multilingual support.
@@ -58,6 +56,7 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 - Developed an online exam system for real-time exam taking and grade viewing.
 - Implemented secure session management and a user-friendly interface.
 - Utilized MySQL for database management and incorporated security measures.
+
 
 ## 📝 My Coding Notes
 - [Remove these files from your github branches for your flutter/firebase app](https://www.notion.so/Remove-these-files-from-your-github-branches-for-your-flutter-firebase-app-b0bedb2b879a4e429c80e95ce2591d29)
