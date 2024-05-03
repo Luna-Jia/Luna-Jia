@@ -28,6 +28,9 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 ## 💻 Projects
 
+- ### [Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301)
+  - An android mobile app for controling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor
+
 ### [JARVIS Email Assistant App (Group Project)](https://github.com/COSC481W-2024Winter/JARVIS)
 - **Technologies:** Dart, Flutter, Firebase, Google OAuth, Gmail API
 - Participated in the design and implementation of a smart email assistant app to help users manage a high volume of emails efficiently.
