@@ -28,42 +28,43 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 ## 💻 Projects
 
-- ### [🤖 Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301) (Team Project)
+- ### [🤖 Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301) (Team Lead)
+  - ###### Java, APIs, Robotic, Bluetooth, Touch Sensor, Android Studio, Fragment, ViewPager2
   - An android mobile app for controling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor
  
 - ### [⛈️ Android Weather App](https://github.com/Luna-Jia/weatherApp2)
+  - ###### Java, APIs, Android Studio, Fragment, ViewPager2
   - An android mobile app showing weather condition based on zip code
  
 - ### [💼 Jarivs: AI Assistant Android App](https://github.com/COSC481W-2024Winter/JARVIS/issues/54) (Team Project)
+  - ###### Flutter, Dart, Firebase, APIs, Google Cloud Platform, Unit Test
   - An android mobile app providing audio summary for emails, news and weather.
-  - **Contributions:**
+  - Contributions:
     - **[Authentication](https://github.com/COSC481W-2024Winter/JARVIS/issues/13):** Implemented secure OAuth2.0 authentication for users to connect their Google email account.
     - **[Email Fetch and Sort](https://github.com/COSC481W-2024Winter/JARVIS/issues/30):** Developed the ETL (Extract, Transform, Load) process to retrieve emails, format them for processing, and feed into the sorting system using Gmail API and a proprietary sorter algorithm.
     - **[Weather Summary](https://github.com/COSC481W-2024Winter/JARVIS/issues/54):** Integrated real-time weather updates using OpenWeather API, enabling the app to provide users with current weather conditions.
    
 
 
-- ### [YouTube Review and Description Fetcher](https://github.com/COSC381-2023Fall/final-project-Luna-Jia)
-  - **Technologies:** Python, FastAPI, Google Cloud Translate API, GitHub Actions, pytest
-  - Developed a Python-based application for fetching YouTube video reviews and descriptions.
-  - Integrated Google Cloud Translate API for multilingual support.
-  - Implemented CLI functionality for review fetching using video IDs or search terms.
-  - Utilized GitHub Actions for CI, ensuring code quality through automated testing.
-
-- ### [Online Restaurant Order Management System](https://github.com/Luna-Jia/sql-hw4/tree/main/q1)
-  - **Technologies:** PHP, MySQL, JavaScript, Bootstrap
-  - Developed a web-based application for restaurant order management.
-  - Implemented a dynamic and responsive UI for order placement.
-  - Designed a secure login system and managed order processing and database interactions.
-
-- ### [Online Exam System](https://github.com/Luna-Jia/sql-hw4/tree/main/q3)
-  - **Technologies:** PHP, MySQL, HTML, CSS, Bootstrap
-  - Developed an online exam system for real-time exam taking and grade viewing.
-  - Implemented secure session management and a user-friendly interface.
-  - Utilized MySQL for database management and incorporated security measures.
+- ### [📹 YouTube Review and Description Fetcher](https://github.com/COSC381-2023Fall/final-project-Luna-Jia)
+  - ###### Python, FastAPI, Google Cloud Translate API, GitHub Actions, pytest
+  - A Python-based application fetching YouTube video reviews and descriptions in different languages.
 
 
-## 📝 My Coding Notes
+- ### [🎥 Movie Checkout System](https://github.com/Luna-Jia/Movie_Checkout_System)
+   - ###### Java, Spring Boot, MySql, database, JPA, Hibernate, Thymeleaf
+   - A web application allowing users to browse movies, search movies, check out available copies, and return movies.
+  
+
+- ### [🍙 Restaurant Order Management System](https://github.com/Luna-Jia/sql-hw4/tree/main/q1)
+  - ###### PHP, MySQL, JavaScript, Bootstrap, database, login system
+  - A website for restaurant order management with login system.
+
+- ### [🏛️ Online Exam System](https://github.com/Luna-Jia/sql-hw4/tree/main/q3)
+  - ###### PHP, MySQL, HTML, CSS, Bootstrap
+  - An online exam system for real-time exam taking and grade viewing with secure session management
+
+## 📝 Coding Notes
   - [Remove these files from your github branches for your flutter/firebase app](https://www.notion.so/Remove-these-files-from-your-github-branches-for-your-flutter-firebase-app-b0bedb2b879a4e429c80e95ce2591d29)
 
   - [Git Command Cheat Sheet](https://gainful-era-815.notion.site/Git-Command-Cheat-Sheet-efe804190925456c9b2066f7b66bd1b6)
