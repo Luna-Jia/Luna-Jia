@@ -30,11 +30,11 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 - ### [🤖 Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301) (Team Lead)
   - ###### Java, APIs, Robotic, Bluetooth, Touch Sensor, Android Studio, Fragment, ViewPager2
-  - An android mobile app for controling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor
+  - An android mobile app for controling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor.
  
 - ### [⛈️ Android Weather App](https://github.com/Luna-Jia/weatherApp2)
   - ###### Java, APIs, Android Studio, Fragment, ViewPager2
-  - An android mobile app showing weather condition based on zip code
+  - An android mobile app showing weather condition based on zip code.
  
 - ### [💼 Jarivs: AI Assistant Android App](https://github.com/COSC481W-2024Winter/JARVIS/issues/54) (Team Project)
   - ###### Flutter, Dart, Firebase, APIs, Google Cloud Platform, Unit Test
@@ -62,7 +62,7 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 - ### [🏛️ Online Exam System](https://github.com/Luna-Jia/sql-hw4/tree/main/q3)
   - ###### PHP, HTML, CSS, Bootstrap, MySQL, database, 
-  - An online exam system for real-time exam taking and grade viewing with secure session management
+  - An online exam system for real-time exam taking and grade viewing with secure session management.
 
 ## 📝 Coding Notes
   - [Remove these files from your github branches for your flutter/firebase app](https://www.notion.so/Remove-these-files-from-your-github-branches-for-your-flutter-firebase-app-b0bedb2b879a4e429c80e95ce2591d29)
