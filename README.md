@@ -52,7 +52,7 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 
 - ### [🎥 Movie Checkout System](https://github.com/Luna-Jia/Movie_Checkout_System)
-   - ###### Java, Spring Boot, HTML, MySql, database, JPA, Hibernate, Thymeleaf
+   - ###### Java, Spring Boot, HTML, CSS, Bootstrap, MySql, database, JPA, Hibernate, Thymeleaf
    - A web application allowing users to browse movies, search movies, check out available copies, and return movies.
   
 
