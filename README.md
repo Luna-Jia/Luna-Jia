@@ -1,6 +1,6 @@
 <img src="https://github.com/Luna-Jia/Luna-Jia/blob/main/headerimg.png" alt="Mokkapps GitHub README header image">
 
-# Luna Meng Jia
+# Meng Jia (Luna)
 
 Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan University](https://www.emich.edu/).
 - 📫 How to reach me: 📧 [luna.jia6@gmail.com](mailto:luna.jia6@gmail.com) or [LinkedIn](www.linkedin.com/in/luna-jia).
