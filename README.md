@@ -28,18 +28,18 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 ## 💻 Projects
 
-- ### [Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301)
+- ### [🤖 Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301) (Team Project)
   - An android mobile app for controling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor
-
-### [JARVIS Email Assistant App (Group Project)](https://github.com/COSC481W-2024Winter/JARVIS)
-- **Technologies:** Dart, Flutter, Firebase, Google OAuth, Gmail API
-- Participated in the design and implementation of a smart email assistant app to help users manage a high volume of emails efficiently.
-- **Contributions:**
-  - **Authentication:** Implemented secure OAuth2.0 authentication for users to connect their Google email account.
-  - **Email Fetch and Sort:** Developed the ETL (Extract, Transform, Load) process to retrieve emails, format them for processing, and feed into the sorting system using Gmail API and a proprietary sorter algorithm.
-  - **Weather Summary:** Integrated real-time weather updates using OpenWeather API, enabling the app to provide users with current weather conditions.
-  - **Testing:** Created comprehensive mock and integration tests for authentication, email retrieval, formatting, and sorting functionalities ensuring high-quality code.
-
+ 
+- ### [⛈️ Android Weather App](https://github.com/Luna-Jia/weatherApp2)
+  - An android mobile app showing weather condition based on zip code
+ 
+- ### [💼 Jarivs: AI Assistant Android App](https://github.com/COSC481W-2024Winter/JARVIS/issues/54) (Team Project)
+  - An android mobile app providing audio summary for emails, news and weather.
+  - **Contributions:**
+    - **[Authentication](https://github.com/COSC481W-2024Winter/JARVIS/issues/13):** Implemented secure OAuth2.0 authentication for users to connect their Google email account.
+    - **[Email Fetch and Sort](https://github.com/COSC481W-2024Winter/JARVIS/issues/30):** Developed the ETL (Extract, Transform, Load) process to retrieve emails, format them for processing, and feed into the sorting system using Gmail API and a proprietary sorter algorithm.
+    - **[Weather Summary](https://github.com/COSC481W-2024Winter/JARVIS/issues/54):** Integrated real-time weather updates using OpenWeather API, enabling the app to provide users with current weather conditions.
 
 ### [YouTube Review and Description Fetcher](https://github.com/COSC381-2023Fall/final-project-Luna-Jia)
 - **Technologies:** Python, FastAPI, Google Cloud Translate API, GitHub Actions, pytest
