@@ -57,8 +57,8 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 - ### [⏰ OBS Widgets](https://github.com/Luna-Jia/OBS-Widget)
    - ###### HTML, CSS, JavaScript
+   - [A pomodoro timer widget](https://www.luna-jia.com/tomato-timer.html?duration=50&sessions=4&break=4) for OBS (Open Broadcaster Software) scenes to display a countdown timer for study sessions and breaks.
    - [An OBS widget showing current time](https://www.luna-jia.com/clock.html).
-   - [A pomodoro timer widget](https://www.luna-jia.com/tomato-timer.html?duration=50&sessions=4&break=4) for OBS (Open Broadcaster Software) scenes to display a countdown timer for study sessions and breaks. 
   
 
 - ### [🍙 Restaurant Order Management System](https://github.com/Luna-Jia/sql-hw4/tree/main/q1)
