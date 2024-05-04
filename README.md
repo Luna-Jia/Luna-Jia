@@ -52,16 +52,16 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 
 - ### [🎥 Movie Checkout System](https://github.com/Luna-Jia/Movie_Checkout_System)
-   - ###### Java, Spring Boot, MySql, database, JPA, Hibernate, Thymeleaf
+   - ###### Java, Spring Boot, HTML, MySql, database, JPA, Hibernate, Thymeleaf
    - A web application allowing users to browse movies, search movies, check out available copies, and return movies.
   
 
 - ### [🍙 Restaurant Order Management System](https://github.com/Luna-Jia/sql-hw4/tree/main/q1)
-  - ###### PHP, MySQL, JavaScript, Bootstrap, database, login system
+  - ###### PHP, HTML, MySQL, JavaScript, Bootstrap, database, login system
   - A website for restaurant order management with login system.
 
 - ### [🏛️ Online Exam System](https://github.com/Luna-Jia/sql-hw4/tree/main/q3)
-  - ###### PHP, MySQL, HTML, CSS, Bootstrap
+  - ###### PHP, HTML, MySQL, HTML, CSS, Bootstrap
   - An online exam system for real-time exam taking and grade viewing with secure session management
 
 ## 📝 Coding Notes
