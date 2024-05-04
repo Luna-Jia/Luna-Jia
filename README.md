@@ -57,11 +57,11 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
   
 
 - ### [🍙 Restaurant Order Management System](https://github.com/Luna-Jia/sql-hw4/tree/main/q1)
-  - ###### PHP, HTML, MySQL, JavaScript, Bootstrap, database, login system
+  - ###### PHP, HTML, MySQL, database, JavaScript, Bootstrap, login system
   - A website for restaurant order management with login system.
 
 - ### [🏛️ Online Exam System](https://github.com/Luna-Jia/sql-hw4/tree/main/q3)
-  - ###### PHP, HTML, MySQL, HTML, CSS, Bootstrap
+  - ###### PHP, HTML, CSS, Bootstrap, MySQL, database, 
   - An online exam system for real-time exam taking and grade viewing with secure session management
 
 ## 📝 Coding Notes
