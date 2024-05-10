@@ -30,7 +30,7 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 
 - ### [🤖 Lego EV3 Robot Controller: Android App](https://github.com/rhulucas/ev301) (Team Lead)
   - ###### Java, APIs, Robotic, Bluetooth, Touch Sensor, Android Studio, Fragment, ViewPager2
-  - An android mobile app for controling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor.
+  - An android mobile app for controlling Lego EV3 Robot via bluetooth: move in 4 directions, piano keyboard, touch sensor.
  
 - ### [⛈️ Android Weather App](https://github.com/Luna-Jia/weatherApp2)
   - ###### Java, APIs, Android Studio, Fragment, ViewPager2
