@@ -13,7 +13,7 @@ Hi there! 👋 I'm Luna, a new Computer Science graduate from [Eastern Michigan 
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science**
   - Eastern Michigan University, Ypsilanti, MI
-  - Jan 2021 - April 2024
+  - Sep 2021 - April 2024
 - **Associate Degree in Computer Science**
   - Washtenaw Community College, Ann Arbor, MI
   - Sep 2020 - April 2023
